@@ -1,0 +1,56 @@
+Github repository: https://github.com/Maroco0109/SE_Team2
+Jiwan Kang, Marooco: 강지완
+answodud: 문재영
+Andy-0419: 김동건
+hwarok: 최준서
+
+[Maroco] Thu May 8 21:56:08 2025 +0900 docs: final.v1 - requirement list - use case description(시트 분류) - use case diagram a4b9d81
+[Maroco] Thu May 8 21:54:00 2025 +0900 docs: use case description fix - use case description fix a6c1ca3
+[Jiwan Kang] Thu May 8 20:33:28 2025 +0900 Merge pull request #5 from Maroco0109/junseo edf023d
+[Jiwan Kang] Thu May 8 20:32:02 2025 +0900 Merge pull request #4 from Maroco0109/jaeyoung b16af19
+[Jiwan Kang] Thu May 8 20:30:12 2025 +0900 Merge pull request #3 from Maroco0109/donggeon 183c470
+[Maroco] Thu May 8 05:41:11 2025 +0900 dir: 정리 폴더 생성 72f8ca1
+[Maroco] Thu May 8 05:39:46 2025 +0900 dir: 정리 폴더 생성 4a64017
+[Maroco] Thu May 8 05:38:26 2025 +0900 dir: 정리 폴더 생성 024b6e7
+[Jiwan Kang] Thu May 8 05:35:37 2025 +0900 Merge pull request #2 from Maroco0109/jiwan 5140664
+[Maroco] Thu May 8 05:32:50 2025 +0900 docs: requirement list 6179c47
+[Maroco] Thu May 8 05:16:50 2025 +0900 docs: use case diagram 최종 1e2d866
+[Jiwan Kang] Thu May 8 05:07:06 2025 +0900 Merge pull request #1 from Maroco0109/jiwan 126eaad
+[Maroco] Thu May 8 05:03:36 2025 +0900 del: main 정리 e4602a1
+[Maroco] Thu May 8 05:00:15 2025 +0900 dir: folder 생성 및 파일 이동 ec143f8
+[Maroco] Thu May 8 04:59:12 2025 +0900 docs: use case description 수정 ac1b1f9
+[Maroco] Wed May 7 22:55:51 2025 +0900 docs: requirement list, usecase description 29a36f4
+[answodud] Wed May 7 21:49:45 2025 +0900 유스케이스 requirement list & description(문재영) 35feedc
+[answodud] Wed May 7 21:48:45 2025 +0900 유스케이스 다이어그램(mdj) 00f9894
+[answodud] Wed May 7 21:48:03 2025 +0900 유스케이스 다이어그램(문재영) d9dbb1c
+[Andy-0419] Wed May 7 20:36:54 2025 +0900 Add files via upload 79416c8
+[hwarok] Wed May 7 17:09:28 2025 +0900 자전거 등록 ~ 대여 금액 및 횟수 조회 부분의 문서들 651d3aa
+[Andy-0419] Tue May 6 16:57:25 2025 +0900 Add files via upload 23484d1
+[answodud] Tue May 6 13:34:46 2025 +0900 유스케이스 다이어그램(mdj) - 문재영 1f293b6
+[answodud] Tue May 6 13:24:41 2025 +0900 usecase의 requirement list 58e00bd
+[answodud] Tue May 6 12:48:31 2025 +0900 유스케이스 다이어그램(pdf) 8b93a1d
+[answodud] Tue May 6 12:42:22 2025 +0900 유스케이스 다이어그램(uml) cc0490e
+[answodud] Tue May 6 12:25:03 2025 +0900 add usecase_diagram(pdf) cb7c56c
+[answodud] Tue May 6 11:56:00 2025 +0900 add use case diagram(pdf) 7048d5e
+[answodud] Tue May 6 11:49:48 2025 +0900 add use case diagram d5744da
+[hwarok] Mon May 5 20:33:28 2025 +0900 Use Case Diagram의 pdf파일, Requirement List 078156d
+[hwarok] Mon May 5 20:29:57 2025 +0900 수정 2349a4f
+[Maroco] Mon May 5 19:29:32 2025 +0900 docs: use case diagram - StarUML 사용 - Use Case Diagram 작성 및 pdf 추출 d01544a
+[Maroco] Mon May 5 19:28:53 2025 +0900 docs: test file delete 36059ce
+[Andy-0419] Sat May 3 17:07:46 2025 +0900 Merge branch 'donggeon' 4b6e1f2
+[Andy-0419] Sat May 3 17:05:54 2025 +0900 유스케이스 다이어그램 541cc07
+[Andy-0419] Sat May 3 17:03:27 2025 +0900 Merge branch 'main' of https://github.com/Maroco0109/SE_Team2 e5a1a96
+[Andy-0419] Sat May 3 13:49:49 2025 +0900 Delete dg_test.txt a2b1927
+[Andy-0419] Sat May 3 13:49:31 2025 +0900 Delete test_dg2.txt 8160373
+[Andy-0419] Sat May 3 13:03:08 2025 +0900 text test 258e94e
+[Andy-0419] Sat May 3 12:54:33 2025 +0900 dg테스트 97c49f2
+[Andy-0419] Sat May 3 12:49:28 2025 +0900 test2 26e28a6
+[hwarok] Fri May 2 20:39:14 2025 +0900 submitting Use Case Diagram I made 04511e4
+[Andy-0419] Thu May 1 21:41:35 2025 +0900 테스트_dg c4124f7
+[answodud] Wed Apr 30 22:46:46 2025 +0900 test용 first commit 0f0ff04
+[Maroco] Wed Apr 30 22:30:14 2025 +0900 test commit 4f2317e
+[Maroco] Wed Apr 30 22:28:09 2025 +0900 test commit 768ed0d
+[Maroco] Wed Apr 30 22:27:51 2025 +0900 docs: test commit 5414327
+[Maroco0109] Wed Apr 30 17:04:53 2025 +0900 docs: README.md edit - <<include>>가 표시 안되던 사항 수정 f9663e7
+[Maroco0109] Wed Apr 30 17:01:24 2025 +0900 docs: README.md update - 과제 내용 정리 625cb20
+[Jiwan Kang] Wed Apr 30 16:14:16 2025 +0900 Initial commit b3e7411
